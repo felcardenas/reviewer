@@ -1,0 +1,37 @@
+.navbar,.form-bg{
+    /* background-color: rgb(32, 45, 105) !important; */
+    background-color: rgba(65, 177, 0, 0.74) !important;
+    color:white !important; 
+}
+
+body, a{
+    /* font-family: 'Archivo Narrow', sans-serif; */
+    font-family: 'Questrial', sans-serif;
+    
+}
+
+a{
+    color:white !important;
+}
+
+a:hover{
+    /* font-size:110%; */
+    font-style:none;
+    font-weight: bold;
+}
+
+.nav-item{
+    margin-left:20px;
+    margin-right:20px;
+}
+
+.navbar-toggler{
+    background-color:white;
+    color:white !important;
+}
+
+body{
+    background: url(img/web/doodles.png);
+}
+
+
