@@ -18,7 +18,7 @@ session_start();
     
     <script src="https://kit.fontawesome.com/fa068e4c93.js"></script>
 
-    <link rel="stylesheet" href="css/estilos.css"> 
+    <link rel="stylesheet" href="estilos.css"> 
 
     <title>REVIEWER</title>
   </head>
